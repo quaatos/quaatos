@@ -19,6 +19,5 @@ My skills (almost, I'm learning):
 <img height="180px" display="inline" src="https://github-readme-stats.vercel.app/api/top-langs/?username=quaatos&theme=blue-green">
                    
 
-### Discord:
 <img height="30px" width="75px" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
 -- adequaat#2457 --
