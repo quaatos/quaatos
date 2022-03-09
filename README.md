@@ -14,7 +14,7 @@ My skills (almost, I'm learning):
 <img height="30px" width="75px" display="inline" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 <img height="30px" width="75px" display="inline" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
 
-<img height="180em" display="inline" src="https://github-readme-stats.vercel.app/api?username=quaatos&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true"/>
-<img height="180em" display="inline" src="https://github-readme-stats.vercel.app/api/top-langs/?username=quaatos&theme=blue-green">
+<img height="180px" display="inline" src="https://github-readme-stats.vercel.app/api?username=quaatos&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true"/>
+<img height="180px" display="inline" src="https://github-readme-stats.vercel.app/api/top-langs/?username=quaatos&theme=blue-green">
                    
 > A wise man once said: "Life is like a frikandel, you have to make it special yourself"
